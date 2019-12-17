@@ -11,7 +11,7 @@ bird
 Hidden from user : ****     Lives: 10
 
 User guesses i
-*i**    Lives: 10
+It is displayed : *i**    Lives: 10
 
 User guesses t
-*i**    Lives: 9
+It is displayed: *i**    Lives: 9
